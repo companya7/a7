@@ -578,6 +578,7 @@ form button.btn-primary:hover {
   overflow: hidden;
   z-index: 1;
   transition: all 0.2s ease-in-out;
+  margin: 2px;
 }
 
 .single-pricing span {
